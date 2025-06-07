@@ -9,3 +9,12 @@
 	- Structural Design Patterns solves problems related to how classes and objects are composed/assembled to form larger structures which are efficient and flexible in nature. Structural class patterns use inheritance to compose interfaces or implementations. 
 3. Behavioral Design Patterns
 	- Behavioral Patterns are concerned with algorithms and the assignment of responsibilities between objects. Behavioral patterns describe not just patterns of objects or classes but also the patterns of communication between them. These patterns characterize complex control flow that’s difficult to follow at run-time. 
+
+|**Creational**|**Structural**|**Behavioural**|
+|---|---|---|
+|Simple Factory||Observer|
+|Factory Method|||
+|Abstract Factory|||
+|Builder|||
+|Prototype|||
+|Singleton|||
