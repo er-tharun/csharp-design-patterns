@@ -20,7 +20,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple.Factory", "src\Creat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory.Method", "src\Creational\Factory.Method\Factory.Method.csproj", "{A5277523-1472-7139-AE22-DFFB799C5EAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIngleton.Pattern", "src\Creational\SIngleton.Pattern\SIngleton.Pattern.csproj", "{7FB366EF-425D-8FE3-D1A6-21EA2F6C8BFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton.Pattern", "src\Creational\SIngleton.Pattern\Singleton.Pattern.csproj", "{7FB366EF-425D-8FE3-D1A6-21EA2F6C8BFC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract.Factory", "src\Creational\Abstract.Factory\Abstract.Factory.csproj", "{C53A6010-FD68-46CF-8042-F17F8E502FAB}"
 EndProject
