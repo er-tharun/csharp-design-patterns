@@ -13,7 +13,7 @@
 |**Creational**|**Structural**|**Behavioural**|
 |---|---|---|
 |Simple Factory||Observer|
-|Factory Method|||
+|Factory Method||Command|
 |Abstract Factory|||
 |Builder|||
 |Prototype|||
