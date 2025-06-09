@@ -15,6 +15,6 @@
 |Simple Factory||Observer|
 |Factory Method||Command|
 |Abstract Factory||Chain Of Responsibility|
-|Builder|||
-|Prototype|||
-|Singleton|||
+|Builder||Iterator|
+|Prototype||Strategy|
+|Singleton||Template|
