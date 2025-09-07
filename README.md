@@ -15,6 +15,6 @@
 |Simple Factory|Adapter|Observer|
 |Factory Method|Decorator|Command|
 |Abstract Factory|Bridge|Chain Of Responsibility|
-|Builder||Iterator|
-|Prototype||Strategy|
+|Builder|Composite|Iterator|
+|Prototype|Facade|Strategy|
 |Singleton||Template|
