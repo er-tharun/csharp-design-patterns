@@ -12,9 +12,9 @@
 
 |**Creational**|**Structural**|**Behavioural**|
 |---|---|---|
-|Simple Factory||Observer|
-|Factory Method||Command|
-|Abstract Factory||Chain Of Responsibility|
+|Simple Factory|Adapter|Observer|
+|Factory Method|Decorator|Command|
+|Abstract Factory|Bridge|Chain Of Responsibility|
 |Builder||Iterator|
 |Prototype||Strategy|
 |Singleton||Template|
