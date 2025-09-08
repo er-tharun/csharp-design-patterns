@@ -17,4 +17,4 @@
 |Abstract Factory|Bridge|Chain Of Responsibility|
 |Builder|Composite|Iterator|
 |Prototype|Facade|Strategy|
-|Singleton||Template|
+|Singleton|Proxy|Template|
