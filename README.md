@@ -10,7 +10,7 @@
 3. Behavioral Design Patterns
 	- Behavioral Patterns are concerned with algorithms and the assignment of responsibilities between objects. Behavioral patterns describe not just patterns of objects or classes but also the patterns of communication between them. These patterns characterize complex control flow that’s difficult to follow at run-time. 
 
-|**Creational**|**Structural**|**Behavioural**|
+|[**Creational**](https://github.com/er-tharun/csharp-design-patterns/blob/main/Creational.md)|[**Structural**](https://github.com/er-tharun/csharp-design-patterns/blob/main/Structural.md)|[**Behavioural**](https://github.com/er-tharun/csharp-design-patterns/blob/main/Behavioural.md)|
 |---|---|---|
 |Simple Factory|Adapter|Observer|
 |Factory Method|Decorator|Command|
